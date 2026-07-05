@@ -1,0 +1,26 @@
+[
+  {
+    "id": "NT-1",
+    "title": "Vendor certification expiring",
+    "message": "Apex Freight Services certification expires in 9 days.",
+    "priority": "High",
+    "read": false,
+    "timestamp": "2026-07-01T10:00:00Z"
+  },
+  {
+    "id": "NT-2",
+    "title": "Procurement request approved",
+    "message": "REQ-2026-002 has moved to Approved status.",
+    "priority": "Medium",
+    "read": true,
+    "timestamp": "2026-06-30T15:30:00Z"
+  },
+  {
+    "id": "NT-3",
+    "title": "Audit package ready",
+    "message": "Quarterly audit export is available in the Reporting Center.",
+    "priority": "Low",
+    "read": false,
+    "timestamp": "2026-06-29T09:20:00Z"
+  }
+]

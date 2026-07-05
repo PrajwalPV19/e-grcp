@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "email": "employee@egrcp.com",
+    "password": "Password@123",
+    "name": "Aarav Sharma",
+    "role": "Employee",
+    "department": "Engineering"
+  },
+  {
+    "id": 2,
+    "email": "manager@egrcp.com",
+    "password": "Password@123",
+    "name": "Meera Kapoor",
+    "role": "Procurement Manager",
+    "department": "Procurement"
+  },
+  {
+    "id": 3,
+    "email": "compliance@egrcp.com",
+    "password": "Password@123",
+    "name": "Riya Menon",
+    "role": "Compliance Officer",
+    "department": "Compliance"
+  },
+  {
+    "id": 4,
+    "email": "auditor@egrcp.com",
+    "password": "Password@123",
+    "name": "Dev Khanna",
+    "role": "Auditor",
+    "department": "Internal Audit"
+  },
+  {
+    "id": 5,
+    "email": "admin@egrcp.com",
+    "password": "Password@123",
+    "name": "Nisha Iyer",
+    "role": "Administrator",
+    "department": "Technology"
+  }
+]

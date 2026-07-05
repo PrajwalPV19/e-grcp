@@ -1,0 +1,26 @@
+[
+  {
+    "id": "REP-1",
+    "name": "Procurement Pipeline",
+    "type": "Procurement",
+    "owner": "Meera Kapoor",
+    "updatedOn": "2026-07-01",
+    "records": 48
+  },
+  {
+    "id": "REP-2",
+    "name": "Vendor Risk Summary",
+    "type": "Vendor",
+    "owner": "Riya Menon",
+    "updatedOn": "2026-06-28",
+    "records": 14
+  },
+  {
+    "id": "REP-3",
+    "name": "Audit Log Extract",
+    "type": "Audit",
+    "owner": "Dev Khanna",
+    "updatedOn": "2026-06-27",
+    "records": 136
+  }
+]

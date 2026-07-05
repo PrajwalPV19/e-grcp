@@ -1,0 +1,32 @@
+{
+  "kpis": [
+    { "title": "Total Requests", "value": "148", "delta": "+12%", "tone": "primary" },
+    { "title": "Pending Requests", "value": "23", "delta": "-4%", "tone": "warning" },
+    { "title": "Approved Requests", "value": "102", "delta": "+8%", "tone": "success" },
+    { "title": "Compliance Issues", "value": "11", "delta": "+2", "tone": "error" }
+  ],
+  "monthlyProcurementTrend": [
+    { "name": "Jan", "value": 24 },
+    { "name": "Feb", "value": 32 },
+    { "name": "Mar", "value": 29 },
+    { "name": "Apr", "value": 44 },
+    { "name": "May", "value": 38 },
+    { "name": "Jun", "value": 48 }
+  ],
+  "riskTrend": [
+    { "name": "Low", "value": 18 },
+    { "name": "Medium", "value": 9 },
+    { "name": "High", "value": 5 }
+  ],
+  "departmentSpending": [
+    { "name": "Engineering", "value": 580000 },
+    { "name": "Operations", "value": 320000 },
+    { "name": "Finance", "value": 260000 },
+    { "name": "Security", "value": 420000 }
+  ],
+  "activities": [
+    "REQ-2026-004 escalated to procurement leadership.",
+    "Vendor VEND-102 certification flagged as expiring.",
+    "Quarterly compliance report exported by Riya Menon."
+  ]
+}

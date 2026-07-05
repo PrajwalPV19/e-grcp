@@ -1,0 +1,46 @@
+[
+  {
+    "id": "REQ-2026-001",
+    "title": "Cloud security license renewal",
+    "department": "Security",
+    "owner": "Aarav Sharma",
+    "amount": 125000,
+    "status": "Pending",
+    "priority": "High",
+    "vendor": "Vertex Digital Systems",
+    "submittedOn": "2026-06-24"
+  },
+  {
+    "id": "REQ-2026-002",
+    "title": "Laptop procurement for onboarding",
+    "department": "People Ops",
+    "owner": "Sana Gupta",
+    "amount": 84000,
+    "status": "Approved",
+    "priority": "Medium",
+    "vendor": "Northwind Components",
+    "submittedOn": "2026-06-20"
+  },
+  {
+    "id": "REQ-2026-003",
+    "title": "Warehouse CCTV maintenance",
+    "department": "Operations",
+    "owner": "Kunal Arora",
+    "amount": 46000,
+    "status": "Rejected",
+    "priority": "Low",
+    "vendor": "Apex Freight Services",
+    "submittedOn": "2026-06-18"
+  },
+  {
+    "id": "REQ-2026-004",
+    "title": "Audit trail archive storage",
+    "department": "Internal Audit",
+    "owner": "Dev Khanna",
+    "amount": 96000,
+    "status": "Escalated",
+    "priority": "High",
+    "vendor": "Vertex Digital Systems",
+    "submittedOn": "2026-06-27"
+  }
+]

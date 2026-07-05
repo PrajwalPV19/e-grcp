@@ -1,0 +1,26 @@
+[
+  {
+    "id": "RISK-1",
+    "category": "Vendor Financial Stability",
+    "impact": "High",
+    "likelihood": "Medium",
+    "score": 16,
+    "owner": "Risk Office"
+  },
+  {
+    "id": "RISK-2",
+    "category": "Expired Certifications",
+    "impact": "Medium",
+    "likelihood": "High",
+    "score": 14,
+    "owner": "Compliance"
+  },
+  {
+    "id": "RISK-3",
+    "category": "Delayed Approvals",
+    "impact": "High",
+    "likelihood": "High",
+    "score": 18,
+    "owner": "Procurement"
+  }
+]

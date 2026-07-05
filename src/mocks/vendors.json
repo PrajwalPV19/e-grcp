@@ -1,0 +1,42 @@
+[
+  {
+    "id": "VEND-101",
+    "name": "Northwind Components",
+    "status": "Active",
+    "riskLevel": "Low",
+    "certification": "Valid",
+    "country": "India",
+    "spend": 480000,
+    "owner": "Procurement West"
+  },
+  {
+    "id": "VEND-102",
+    "name": "Apex Freight Services",
+    "status": "Review",
+    "riskLevel": "Medium",
+    "certification": "Expiring",
+    "country": "Singapore",
+    "spend": 310000,
+    "owner": "Logistics"
+  },
+  {
+    "id": "VEND-103",
+    "name": "Vertex Digital Systems",
+    "status": "Active",
+    "riskLevel": "High",
+    "certification": "Missing",
+    "country": "Germany",
+    "spend": 690000,
+    "owner": "IT Procurement"
+  },
+  {
+    "id": "VEND-104",
+    "name": "Harbor Office Supplies",
+    "status": "Inactive",
+    "riskLevel": "Low",
+    "certification": "Valid",
+    "country": "UAE",
+    "spend": 120000,
+    "owner": "Facilities"
+  }
+]

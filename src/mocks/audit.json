@@ -1,0 +1,23 @@
+[
+  {
+    "id": "AUD-1",
+    "actor": "Meera Kapoor",
+    "action": "Approved request REQ-2026-002",
+    "module": "Approval Workbench",
+    "timestamp": "2026-06-30 11:20"
+  },
+  {
+    "id": "AUD-2",
+    "actor": "Riya Menon",
+    "action": "Marked vendor VEND-102 for compliance review",
+    "module": "Compliance Center",
+    "timestamp": "2026-06-30 15:42"
+  },
+  {
+    "id": "AUD-3",
+    "actor": "Dev Khanna",
+    "action": "Generated quarterly audit report",
+    "module": "Audit Center",
+    "timestamp": "2026-07-01 09:05"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "CMP-1",
+    "area": "ISO 27001",
+    "status": "Compliant",
+    "issue": "No current gap",
+    "owner": "Information Security"
+  },
+  {
+    "id": "CMP-2",
+    "area": "Vendor KYC",
+    "status": "Pending",
+    "issue": "3 vendor records missing updated tax documents",
+    "owner": "Compliance Operations"
+  },
+  {
+    "id": "CMP-3",
+    "area": "Insurance Certificates",
+    "status": "Escalated",
+    "issue": "1 high-value supplier has an expired document",
+    "owner": "Legal"
+  }
+]
