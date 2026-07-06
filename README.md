@@ -2,6 +2,8 @@
 
 Enterprise Governance, Risk, Compliance & Procurement Platform built from the trainer assignment using React, Vite, Redux Toolkit, React Router, Axios, React Hook Form, Yup, Material UI, Recharts, and Vitest.
 
+
+
 ## Demo credentials
 
 - `employee@egrcp.com`
@@ -44,7 +46,13 @@ Password for all demo users: `Password@123`
 - Error boundary, lazy-loaded routes, and reusable components
 - CSV and Excel export from the reporting center
 
-## Notes
+## document export:
+xlsx and csv file format
+##deploymet
+-this application as been deployed to vercel:
+-**URL**:https://e-grcp.vercel.app/login
 
-- The app uses mock data because the trainer brief specifies a frontend-only implementation.
-- `xlsx` currently reports one upstream high-severity advisory via `npm audit`; the export feature is implemented anyway because Excel export is explicitly required by the assignment.
+##Repository
+-Github repo URL-
+
+
